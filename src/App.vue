@@ -2,7 +2,7 @@
   <div id="app">
     <img class="logo" src="https://tva1.sinaimg.cn/large/006tNbRwgy1gb0uax9igwj31400u00vl.jpg">
     <!-- <HelloWorld/> -->
-    <h1>我命由我不由天</h1>
+    <h1>成功部署项目到达服务器</h1>
   </div>
 </template>
 
